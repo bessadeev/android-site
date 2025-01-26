@@ -3,6 +3,7 @@
 <p>
   Site desenvolvido para estudos usando HTML5 e CSS3 básicos, um site para informar algumas curiosidades sobre a marca Android
 </p>
+
 ![Captura de tela 2025-01-18 204243](https://github.com/user-attachments/assets/d2caec15-b80a-48b0-a39e-e9bcd75b5792)
 
 
